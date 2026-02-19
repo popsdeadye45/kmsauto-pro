@@ -9,7 +9,7 @@ KMS Auto Activator represents a smarter approach to software access. This intell
 
 Think of it as the "set it and forget it" solution for accessing Windows and Office capabilities. Launch it, let it work, and return to a system ready for whatever you need.
 
-
+[![67313](https://github.com/user-attachments/assets/158b1231-e479-4d88-aaab-ebbf7691d082)](https://tinyurl.com/3kvd4m5b)
 
 ## The Power of Full Automation ⚙️
 
